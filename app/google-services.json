@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "377975768505",
+    "firebase_url": "https://madproj-e63bc.firebaseio.com",
+    "project_id": "madproj-e63bc",
+    "storage_bucket": "madproj-e63bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377975768505:android:6875c16c79715842",
+        "android_client_info": {
+          "package_name": "com.mad.madproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377975768505-qhdkf5h7nn87fvvo5uanjh3p5ld1ut5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          //TODO: Specify the api key for google services, or you can just copy your own google-services.
+          "current_key": "YOUR_KEY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

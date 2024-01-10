@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name_alt">Riote</string>
+    <string name="app_name">Riote Travelapp</string>
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_signin">Sign in</string>
+    <string name="btn_link_to_register">New user? Sign Up Now!</string>
+    <string name="btn_link_to_login">Joined with us? Login now!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">Give us your email ID and we will send you link to reset your password.</string>
+    <string name="logo_txt">Logo</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="uname_hint">Username</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <!-- populate this list automatically -->
+    <string-array name="city_names">
+        <item>Jakarta</item>
+        <item>Tokyo</item>
+        <item>Sydney</item>
+    </string-array>
+    <string-array name="days">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="itineraryfilter">
+        <item>All</item>
+        <item>Past</item>
+        <item>Present</item>
+    </string-array>
+    <string name="title_activity_view_itinerary">ViewItineraryActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Itinerary Day: %1$d</string>
+    <string name="username_text">Limyandi Vicotrico</string>
+    <string name="change_username_text">Change Username</string>
+    <string name="delete_past_trips_text">Delete past places</string>
+    <string name="delete_trip_history_text">Delete Trip History</string>
+    <string name="receive_notifications_text">Receive notifications</string>
+    <string name="receive_notifications_text_details">We will notify you daily when your trip is close</string>
+    <string name="default_text_no_itinerary">Oops, you have no trip planned. \n Want to plan a new trip?</string>
+    <string name="no_trip_text">Sorry! You do not have \n any trip here!</string>
+    <string name="end_date_text">End Date</string>
+    <string name="start_date_text">Start Date</string>
+    <string name="accommodation_text">Accommodation</string>
+    <string name="create_a_new_trip_text">Create a new Trip</string>
+    <string name="trip_name_text">Trip name</string>
+    <string name="trip_to_dotdot">Trip to …</string>
+    <string name="home_nav_drawer_text">Home</string>
+    <string name="my_trip_nav_drawer_text">My Trip</string>
+    <string name="holiday_news_nav_drawer_text">Holiday News</string>
+    <string name="about_us_nav_drawer_text">About us</string>
+    <string name="settings_nav_drawer_text">Settings</string>
+    <string name="log_out_nav_drawer_text">Log out</string>
+    <string name="utility_nav_drawer_header">Utility</string>
+    <string name="confirm_text">Confirm</string>
+    <string name="enter_address_hint">Enter address</string>
+    <string name="error_failed_forget_password_msg">The email does not exists, \n create an acccount with this email first.</string>
+    <string name="error_message_log_in">Your username and password does not match, try loggging in again!</string>
+    <string name="background_picture">BackgroundPict</string>
+    <string name="city_hint_text">Where are you going?</string>
+    <string name="register_failed_text">Either this account exists in the application or the \n details is invalid, Try Signing up again</string>
+    <string name="city_item_text">City</string>
+    <string name="country_item_text">Country</string>
+    <string name="caption_about">\'Bringing you your life best Experience\'</string>
+    <string name="holiday_news_text">Holiday News</string>
+    <string name="sorry_msg">We are sorry, this feature is on work and will be available on next version. We will notify you when this feature is available so stay tuned and wait forward to reading your news in the same app where you can travel your trip.</string>
+    <string name="image_holiday">ImageHoliday</string>
+    <string name="upcoming_trip_text">Your upcoming Trip</string>
+    <string name="city_image_desc">city image</string>
+    <string name="city_text">City, Country</string>
+    <string name="date_text">Date</string>
+    <string name="trip_text">3 Days Trip</string>
+    <string name="sorry_text">Sorry!</string>
+    <string name="failed_generate_itinerary_text">Our database can\'t suggest any places for this accommodation yet. Try another address!</string>
+    <string name="close_text">Close</string>
+    <string name="about_us_title">About Us</string>
+    <string name="news_title">News</string>
+    <string name="days_trip_text">&#160;days trip</string>
+    <string name="hyphen">&#160;-&#160;</string>
+    <string name="pict_format_jpg">.jpg</string>
+    <string name="my_trips_title">My Trips</string>
+    <string name="trip_history_text">Trip History</string>
+    <string name="all_section">All</string>
+    <string name="present_section">Present</string>
+    <string name="past_section">Past</string>
+    <string name="settings_title">Settings</string>
+</resources>
